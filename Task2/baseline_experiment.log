@@ -1,0 +1,102 @@
+2024-10-20 19:24:39,018:ERROR:Error communicating with OpenAI API for Prolog translation: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 19:26:42,120:ERROR:Error communicating with OpenAI API for Prolog translation: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 19:28:41,484:ERROR:Error communicating with OpenAI API for NLP: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 19:28:47,701:ERROR:Error communicating with OpenAI API for NLP: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 19:30:00,027:ERROR:Error communicating with OpenAI API for NLP: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 19:32:48,421:ERROR:Error communicating with OpenAI API for NLP: 'Chat' object has no attribute 'completion'
+2024-10-20 19:33:07,504:ERROR:Error communicating with OpenAI API for NLP: 'Chat' object has no attribute 'completion'
+2024-10-20 19:35:12,378:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 19:35:12,386:ERROR:Error communicating with OpenAI API for NLP: 'ChatCompletion' object is not subscriptable
+2024-10-20 19:38:58,593:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 19:38:58,602:INFO:Natural language processing obtained successfully.
+2024-10-20 19:39:01,761:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 19:39:01,762:INFO:Prolog translation obtained successfully.
+2024-10-20 19:39:01,763:ERROR:Error running Prolog code with Janus: module 'janus_swi' has no attribute 'Prolog'
+2024-10-20 19:39:01,763:ERROR:Baseline experiment failed.
+2024-10-20 19:57:00,249:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 19:57:00,257:INFO:Natural language processing obtained successfully.
+2024-10-20 19:57:04,954:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 19:57:04,957:INFO:Prolog translation obtained successfully.
+2024-10-20 20:04:07,048:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 20:04:07,057:INFO:Natural language processing obtained successfully.
+2024-10-20 20:04:10,222:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 20:04:10,225:INFO:Prolog translation obtained successfully.
+2024-10-20 20:14:07,934:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 20:14:07,942:INFO:Natural language processing obtained successfully.
+2024-10-20 20:14:07,942:ERROR:Error communicating with OpenAI API for Prolog translation: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 20:15:00,874:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 20:15:00,882:INFO:Natural language processing obtained successfully.
+2024-10-20 20:15:00,882:ERROR:Error communicating with OpenAI API for Prolog translation: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-20 20:15:41,770:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 20:15:41,780:INFO:Natural language processing obtained successfully.
+2024-10-20 20:15:43,676:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 20:15:43,677:INFO:Prolog translation obtained successfully.
+2024-10-20 20:15:43,682:INFO:Prolog code consulted successfully.
+2024-10-20 20:15:43,682:INFO:Prolog code consulted successfully.
+2024-10-20 20:17:11,243:INFO:Executed non-deterministic query: safest_airline(Airline, Country).
+2024-10-20 20:17:42,731:INFO:Executed non-deterministic query: safest_airline(qantas, Country).
+2024-10-20 20:18:11,880:INFO:Executed non-deterministic query: safety_factors(Factor).
+2024-10-20 20:18:27,675:INFO:Executed non-deterministic query: safety_factors(Factor).
